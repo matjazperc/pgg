@@ -1,2 +1,2 @@
 # pgg.cu
-Parallelisation of the Monte Carlo simulation method for the public goods game on the square lattice.
+Source code that implements the parallelisation of the Monte Carlo simulation method described in Section 4 of "High-performance parallel computing in the classroom using the public goods game as an example". The source code is written in C and thus requires a compiler for this programming language, plus the CUDA programming environment. Executing the code requires a graphics card that supports CUDA.
